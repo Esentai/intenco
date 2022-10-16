@@ -1,0 +1,20 @@
+.footer_content{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    padding: 10px 0 40px;
+}
+.footer_left{
+    display: flex;
+}
+.footer_left p{
+    margin: 14px 35px 0;
+}
+.footer p{
+    font-size: 20px;
+
+}
+.footer_right{
+    text-align: right;
+}
